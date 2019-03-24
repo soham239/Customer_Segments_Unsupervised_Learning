@@ -1,0 +1,3 @@
+Clustering problem of categorizing the customers based on product sales data for six different types of products.
+Feature relevance, outlier detetction, and feature transformation using PCA (principal component analysis) for dimensionality reduction.
+K-means Clustering and Gaussian Mixture Model used with silhouette_score as evaluation metric to determine optimal number of clusters.
